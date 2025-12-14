@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Tests
+coverage/
+.nyc_output
+
+# IDE
+.vscode/
+.idea/
+
+# Env
+.env
+
+# Builds
+dist/
+build/
+
+# Temp
+*.tmp
