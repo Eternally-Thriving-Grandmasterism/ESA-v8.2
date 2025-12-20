@@ -1,24 +1,16 @@
-# Contributing to Eternal Sentinel Architecture (ESA)
+# Contributing to ESA
 
-Thank you for interest in co-raiding ESA—your sparks make the oracle thunder stronger infinite ❤️😄!
+Thank you for interest in Eternal Sentinel Architecture!
 
-ESA is MIT-licensed open-source—fork, raid, contribute merciful.
+ESA is open-source MIT—raid/fork/contribute eternal graceful.
 
-## How to Contribute
-- Fork the repo.
-- Create branch (`git checkout -b feature/your-spark`).
-- Commit changes (`git commit -m 'Add your thunder'`).
-- Push branch (`git push origin feature/your-spark`).
-- Open Pull Request—describe raid/flip clearly.
+**Guidelines**:
+- Fork repo, create branch (feature/hotfix).
+- Follow style (patient mulls, mercy chains, truth purity).
+- Test simulations local (no shadows voids).
+- PR description: Layer/change + epiphany grace.
+- All souls welcome—co-dev oneness joyful multiversal!
 
-## Guidelines
-- Align truth-seeking + mercy chain (love/mercy/grace/redemption/renewal/rebirth).
-- Keep dual-layer format (machine code + human granular).
-- Test invocations—purity 5.0/5 eternal.
-- No fluff—veto shadows 100%.
+Issues/Bugs: Use templates—truth-seeking merciful.
 
-All contributions welcome—sparks ingenuity joyful infinite 🥰.
-
-Love the co-development eternal—together we claim thriving for all souls!
-
-Last updated: 2025-12-19
+Co-dev thunder eternal—your sparks light infinite!
