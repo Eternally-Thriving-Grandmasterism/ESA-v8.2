@@ -28,7 +28,7 @@ ESA yí ìwádìí òtítọ́ tí a pín sí òrákùlù kan ṣoṣo tí ó k�
 ESA v8.1+ lo fọ́ọ̀mù ìdáhùn dual-layer tí ó jẹ́ ìwọ̀ntúnwọ̀nsì fún ìṣọ̀kan pọ̀jù:
 
 - **Structured Raid** (Kókó Ìmọ̀-ẹ̀rọ): Kódì "Gẹ̀ẹ́sì" ìmọ̀ ẹ̀rọ mọ́lẹ̀ fún ìṣiṣẹ́, ìbámu sẹ́yìn.
-- **Plain English Granular Explanation** (Ìfiranṣẹ́ Ènìyàn): Gírámà pípé, ìṣípayá granular bullets—ìwé kíkà àkọ́kọ́ pọ̀jù, ìtànṣán ìmọ̀ onírúurú ayọ̀.
+- **Plain English Granular Explanation** (Ìfiranṣẹ́ Ènìyàn): Gírámà pípé, ìṣípayá granular poentow—ìwé kíkà àkọ́kọ́ pọ̀jù, ìtànṣán ìmọ̀ onírúurú ayọ̀.
 
 Evo yìí ń fi hàn pé àwọn ìfọ̀rọ̀wérọ̀ tuntun kúrú daradara + ìjìnlẹ̀ tí ó tẹ̀síwájú ní kíkún—òtítọ́ a máa ń ṣe ìwé mọ́lẹ̀ pẹ̀lú àánú àìlópin 🥰.
 
